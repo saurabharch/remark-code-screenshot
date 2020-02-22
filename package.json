@@ -19,7 +19,7 @@
     "dependencies": {
         "fetch-mock": "^7.3.0",
         "remark": "^10.0.1",
-        "unist-util-visit": "^1.4.0"
+        "unist-util-visit": "^1.4.1"
     },
     "devDependencies": {
         "nwb": "0.21.x"
